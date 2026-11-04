@@ -1,6 +1,6 @@
 # EMPOWER India website
 
-The EMPOWER India results website (formerly REPOWER India), version 17.3 (27 October 2026), by Terra Praxis. It follows the body order of report v4.4.
+The EMPOWER India results website (formerly REPOWER India), version 18 (4 November 2026), by Terra Praxis. It follows the EMPOWER India blueprint v4.6.
 
 `index.html` is one self-contained page. It contains all its charts, maps and report renders. It makes no external requests and works offline.
 
@@ -21,3 +21,5 @@ Version 17.1 (27 October 2026): the table of how the three site types meet the s
 Version 17.2 (27 October 2026): the same table rolls down by column, not by row. A click on a site type (existing sites, large new sites, or marine sites) rolls its column down to its answers for the five constraints, and a second click rolls it up. Columns open independently. Notes: `site/README_site_v17_2.md` in the project.
 
 Version 17.3 (27 October 2026): Figure 1 shows two cases, both with the firm fleet at 85% of its capacity in every hour. "Least cost" optimises firm, solar, wind, and battery capacity with no limit on the share of wind and solar: about 1,600 GW of firm capacity. "45% renewables" fixes the firm fleet at 1 TW: wind, solar, and hydro supply 45% of demand. The 70 to 100 per cent operating range and the three v17.2 cases are removed. Notes: `site/README_site_v17_3.md` in the project.
+
+Version 18 (4 November 2026): aligned with blueprint v4.6, with no new content. Nuclear output is counted at an 85% net plant load factor (PLF): supply in 2070 of 1,431 TWh from existing sites, 751 TWh from large new sites, and 5,170 TWh from marine sites; about 216 kWh of clean electricity per person a year; 34 per cent more energy through a coal site's connection; solar and storage for Anpara on about 276 km², or about 947 km² to serve every hour, about 158 times the land of the nuclear station. A harbour site holds up to 20 units of 700 MW, 14 GW gross. "Built in series" shows highways and metro. Claims about the programme are in the conditional, "the programme" replaces "the central scenario", and the document is called a blueprint. Tables 1 to 6 and 10 follow v4.6. Notes: `site/README_site_v18.md` in the project.
